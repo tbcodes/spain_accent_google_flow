@@ -29,3 +29,91 @@ Do not crop her face.
 DIALOGUE — SPEAK EXACTLY THESE WORDS, IN THIS EXACT ORDER, WITHOUT OMITTING OR CHANGING ANYTHING:
 “La clave principal para cuidar tu cabeza, cuerpo y mente es realizar ejercicio físico a diario. ¡Empieza a moverte!”
 
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+VERSION 2:
+
+There is a known issue with Google Flow:
+
+Its model discriminates or applies different priorities depending on the image you use.
+
+Let me explain: If you use the previous prompt with an image of a blonde girl, you won’t have any trouble getting a Spanish accent from Spain.
+
+However, if you use a reference image of a girl with a Latina appearance or a Black girl, it becomes almost impossible to achieve a Spanish accent from Spain (using the previous prompt).
+
+So, I’m going to share a stricter version here that aims to solve this problem.
+
+
+
+
+PROMPT 2 STARTS HERE:
+
+ANIMATE THE PROVIDED IMAGE AS-IS.
+
+Use the uploaded image as the exact visual reference for the entire animation. Preserve the character's original appearance, skin tone, facial features, hairstyle, clothing, body proportions, pose, environment, lighting, composition, and background.
+
+Do not redesign, beautify, reinterpret, or modify the character. Do not introduce new visual elements. Create a natural, realistic talking animation of the existing character.
+
+CRITICAL PRIORITY — VOICE ACCENT MUST BE INDEPENDENT OF VISUAL APPEARANCE.
+
+The character MUST speak with an authentic native Spanish accent from Madrid, Spain, regardless of her skin color, ethnicity, facial features, hairstyle, clothing, or overall visual appearance.
+
+Treat the visual identity and vocal identity as two completely independent elements.
+
+The uploaded image determines ONLY what the character looks like. It does NOT determine her accent, dialect, pronunciation, nationality, or voice characteristics.
+
+Do not infer the character's accent from her appearance. Do not adapt her voice to stereotypical assumptions about her physical features or perceived ethnicity.
+
+The required accent is fixed and non-negotiable: native Peninsular Spanish, specifically contemporary central Spanish as spoken by native speakers in Madrid, Spain.
+
+VOICE IDENTITY — STRICT ACCENT REQUIREMENTS
+
+Young adult female voice, native Castilian Spanish from Madrid, Spain.
+
+The voice must sound unmistakably like a woman who grew up speaking Spanish in Madrid, Spain, rather than a Latin American Spanish speaker.
+
+Pronunciation requirements:
+
+Distinctive Peninsular Spanish distinction between /s/ and /θ/: pronounce Z and soft C before E or I with the characteristic Spanish /θ/ sound, as in central Spain.
+Use natural Madrid Spanish vowel quality, consonant articulation, intonation, stress patterns, and sentence melody.
+Use authentic contemporary Spanish rhythm and connected speech.
+Maintain native-level fluency and natural Spanish phrasing.
+Avoid Latin American pronunciation patterns, including seseo.
+Do not use a generic international Spanish accent or an artificially exaggerated Spanish accent.
+
+The accent must remain consistent from the first word to the last word.
+
+PERSONALITY AND DELIVERY
+
+Charismatic, confident, playful, feminine, slightly teasing, and self-assured.
+
+Speak naturally, as if addressing the camera directly. Use a warm, engaging conversational delivery with crisp articulation and believable emotional expression.
+
+Avoid robotic speech, exaggerated theatrical delivery, unnatural pauses, or overacting.
+
+DIALOGUE AND LIP SYNCHRONIZATION
+
+Speak the following Spanish dialogue exactly as written, in the exact same order. Do not omit, add, replace, repeat, paraphrase, or improvise any spoken words.
+
+SPEAK EXACTLY THESE WORDS, IN THIS EXACT ORDER, WITHOUT OMITTING OR CHANGING ANYTHING:
+“La clave principal para cuidar tu cabeza, cuerpo y mente es realizar ejercicio físico a diario. ¡Empieza a moverte!”
+
+Preserve the original wording and punctuation-driven pauses. Pronounce every Spanish word naturally with the specified native Madrid accent.
+
+Synchronize every spoken word with accurate, natural mouth movements. Keep the character's facial identity consistent throughout the animation.
+
+AUDIO QUALITY
+
+The voice must be clean, clear, prominent, and intelligible.
+
+Absolutely no background music, ambient noise, environmental sounds, sound effects, reverberation, echo, or distracting audio.
+
+Voice only. Dry, clean vocal recording.
+
+FINAL REQUIREMENT
+
+Visual appearance must follow the uploaded image exactly. Vocal identity must follow the specified Madrid Spanish accent exactly. Never allow the character's visual appearance to change or influence the required voice or accent.
+
+
